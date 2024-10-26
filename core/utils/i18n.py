@@ -10,7 +10,7 @@ import orjson as json
 from config import Config
 from .text import isint, remove_suffix
 
-default_locale = Config('locale', 'zh_cn')
+default_locale = Config('locale', 'b64')
 
 # Load all locale files into memory
 
