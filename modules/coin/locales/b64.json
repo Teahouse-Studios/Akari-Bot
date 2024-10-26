@@ -1,0 +1,20 @@
+{
+    "coin.help": "5oqb5Lu75oSP5p6a56Gs5biB44CC",
+    "coin.help.desc": "5oqb56Gs5biB44CC",
+    "coin.message.all.head": "4oCm5YWo5piv5q2j6Z2i77yB",
+    "coin.message.all.prompt": "5L2g5oqb5LqGICR7Y291bnR9IOaemuehrOW4geKApg==",
+    "coin.message.all.stand": "4oCm5YWo6YO956uL6LW35p2l5LqG77yf77yB",
+    "coin.message.all.tail": "4oCm5YWo5piv5Y+N6Z2i77yB",
+    "coin.message.invalid.amount": "5peg5pWI55qE56Gs5biB5pWw6YeP44CC",
+    "coin.message.invalid.out_of_range": "5L2g5pyA5aSa5Y+q6IO95oqbICR7bWF4fSDmnprnoazluIHjgII=",
+    "coin.message.mix.head": "4oCm5pyJICR7aGVhZH0g5p6a5piv5q2j6Z2i",
+    "coin.message.mix.head_and_tail": "4oCm5pyJICR7aGVhZH0g5p6a5piv5q2j6Z2i77yMJHt0YWlsfSDmnprmmK/lj43pnaI=",
+    "coin.message.mix.prompt": "5L2g5oqb5LqGICR7Y291bnR9IOaemuehrOW4ge+8jOWFtuS4reKApg==",
+    "coin.message.mix.stand": "4oCm4oCm6L+Y5pyJICR7c3RhbmR9IOaemueri+i1t+adpeS6hu+8gQ==",
+    "coin.message.mix.tail": "4oCm5pyJICR7dGFpbH0g5p6a5piv5Y+N6Z2i",
+    "coin.message.nocoin": "5L2g5oqb5LqG5Liq56m65rCU77yM5LuA5LmI5Lmf5rKh5Y+R55Sf4oCm4oCm",
+    "coin.message.single.head": "4oCm5piv5q2j6Z2i77yB",
+    "coin.message.single.prompt": "5L2g5oqb5LqGIDEg5p6a56Gs5biB4oCm",
+    "coin.message.single.stand": "4oCm5a6D56uL6LW35p2l5LqG77yB",
+    "coin.message.single.tail": "4oCm5piv5Y+N6Z2i77yB"
+}

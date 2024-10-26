@@ -1,0 +1,18 @@
+{
+    "ncmusic.help": "6YCa6L+HIElEIOiOt+WPlumfs+S5kOOAgg==",
+    "ncmusic.help.desc": "572R5piT5LqR6Z+z5LmQ55u45YWz5bel5YW344CC",
+    "ncmusic.help.info": "6I635Y+W6Z+z5LmQ6K+m57uG5L+h5oGv44CC",
+    "ncmusic.help.search": "5pCc57Si572R5piT5LqR6Z+z5LmQ44CC",
+    "ncmusic.message.info": "5q2M5ZCN77yaJHtuYW1lfe+8iCR7aWR977yJCuatjOaJi++8miR7YXJ0aXN0c30K5LiT6L6R5ZCN77yaJHthbGJ1bX3vvIgke2FsYnVtX2lkfe+8iQ==",
+    "ncmusic.message.info.not_found": "5pyq5om+5Yiw5a+55bqU55qE6Z+z5LmQ44CC",
+    "ncmusic.message.search.confirm": "5piv5ZCm5p+l55yL6Z+z5LmQ6K+m57uG5L+h5oGv77yf",
+    "ncmusic.message.search.invalid.non_digital": "5peg5pWI55qE57yW5Y+377yM5b+F6aG75Li65pWw5a2X44CC",
+    "ncmusic.message.search.invalid.out_of_range": "57yW5Y+36LaF5Ye66IyD5Zu044CC",
+    "ncmusic.message.search.not_found": "5pyq5om+5Yiw57uT5p6c44CC",
+    "ncmusic.message.search.prompt": "5Zue5aSN5a+55bqU55qE5bqP5Y+35Lul5p+l55yL5q2M5puy5L+h5oGv44CC",
+    "ncmusic.message.search.result": "5pCc57Si57uT5p6c77ya",
+    "ncmusic.message.search.table.header.album": "5LiT6L6R5ZCN",
+    "ncmusic.message.search.table.header.artists": "5q2M5omL",
+    "ncmusic.message.search.table.header.id": "57yW5Y+3",
+    "ncmusic.message.search.table.header.name": "5q2M5ZCN"
+}

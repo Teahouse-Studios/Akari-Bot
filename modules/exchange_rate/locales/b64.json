@@ -1,0 +1,9 @@
+{
+    "exchange_rate.help": "5qC55o2u5b2T5pel5rGH546H6L2s5o2i6LSn5biB5Lu35qC844CC",
+    "exchange_rate.help.desc": "5rGH546H6L2s5o2i5bel5YW344CC",
+    "exchange_rate.help.regex.desc": "WzxhY291bnQ+XSA8YmFzZT4o5YWRfOaNoik8dGFyZ2V0PiDovazmjaLotKfluIHku7fmoLzjgII=",
+    "exchange_rate.message": "JHthbW91bnR9ICR7YmFzZX0gPSAke2V4Y2hhbmdlX3JhdGV9ICR7dGFyZ2V0fQrvvIgke3RpbWV977yM5LuF5L6b5Y+C6ICD77yJ",
+    "exchange_rate.message.invalid.unit": "5peg5pWI55qE6LSn5biB5Y2V5L2N77ya",
+    "exchange_rate.message.invalid.non_digital": "5peg5pWI55qE6YeR6aKd77yM5b+F6aG75Li65pWw5a2X44CC",
+    "exchange_rate.message.invalid.non_positive": "6YeR6aKd5b+F6aG75Li65q2j5pWw44CC"
+}

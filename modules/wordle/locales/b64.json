@@ -1,0 +1,15 @@
+{
+    "wordle.help": "5byA5aeL5paw5ri45oiP44CC",
+    "wordle.help.desc": "546pIFdvcmRsZeOAgg==",
+    "wordle.help.hard": "5L2/55So5Zuw6Zq+5qih5byP44CC",
+    "wordle.help.theme": "6K6+572u5piv5ZCm5L2/55So5rex6Imy5Li76aKY44CC",
+    "wordle.message.finish": "5ri45oiP57uT5p2f77yM562U5qGI5Li677yaJHthbnN3ZXJ944CCCuafpeivouivjeWFuO+8mmh0dHBzOi8vZGljdGlvbmFyeS5jYW1icmlkZ2Uub3JnL2RpY3Rpb25hcnkvZW5nbGlzaC8ke2Fuc3dlcn0=",
+    "wordle.message.finish.success": "56Wd6LS677yB5L2g5ZyoICR7YXR0ZW1wdH0g5Zue5ZCI5YaF5a6M5oiQ5LqG5ri45oiP44CC",
+    "wordle.message.hard": "5o+Q56S677ya5q2j5Zyo5L2/55So5Zuw6Zq+5qih5byP77yM5Zyo5LiK5LiA5Zue5ZCI5Lit6KKr6aKc6Imy5qCH6K6w55qE5a2X5q+N5Zyo5o6l5LiL5p2l55qE5Zue5ZCI5Lit5b+F6aG75Ye6546w77yM5LiU5b+F6aG756ym5ZCI5a+55bqU55qE6KaB5rGC44CC",
+    "wordle.message.hard.not_matched": "6L6T5YWl55qE5Y2V6K+N5LiN56ym5ZCI6KaB5rGC44CC",
+    "wordle.message.not_a_word": "6L+Z5LiN5piv5LiA5Liq5pyJ5pWI55qE5Y2V6K+N44CC",
+    "wordle.message.start": "5ri45oiP5byA5aeL77yM5L2g6ZyA6KaB54yc5LiA5Liq55SxIDUg5Liq5a2X5q+N57uE5oiQ55qE5Y2V6K+N77yM5L2g5pyJIDYg5qyh5py65Lya44CCCue7v+iJsuihqOekuuWtl+avjeWSjOS9jee9rumDveato+ehru+8jOm7hOiJsuS7o+ihqOWtl+avjeato+ehruS9huS9jee9ruS4jeato+ehru+8jOeBsOiJsuS7o+ihqOWNleivjeS4reayoeaciei/meS4quWtl+avjeOAgg==",
+    "wordle.message.stop": "5bey5YGc5q2i77yM562U5qGI5Li677yaJHthbnN3ZXJ944CCCuafpeivouivjeWFuO+8mmh0dHBzOi8vZGljdGlvbmFyeS5jYW1icmlkZ2Uub3JnL2RpY3Rpb25hcnkvZW5nbGlzaC8ke2Fuc3dlcn0=",
+    "wordle.message.theme.disable": "5bey5YWz6Zet5rex6Imy5Li76aKY44CC",
+    "wordle.message.theme.enable": "5bey5byA5ZCv5rex6Imy5Li76aKY44CC"
+}
